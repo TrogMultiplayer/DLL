@@ -1,15 +1,9 @@
-# Project-Reboot
+# DLL
 
-S5-S12
+Yeah, this is a fork from [Milxnor](https://github.com/Milxnor/Project-Reboot) for TrogMultiplayer.
 
-S3 and S4 have support but haven't been tested much.<br>
-S13-S18 work perfectly fine, but the safezone does not work.
+I would not recommend to use it for yourself but if you want, be my guest because you will not get any support
 
-this is the rewrite of https://github.com/milxnor/universal-walking-simulator
-<br>
-Project Reboot rewrite, it was looking good, and then I kinda forgot that I was supposed to make it nice so now it doesn't look so nice.<br>
-So rewrite again soon??
-<br>
-This project is still missing a lot of stuff that the old project has, for example lategame, this will be added soon.<br><br>
+## Complains
 
-If you want a good experience, I would still recommend using the  https://github.com/milxnor/universal-walking-simulator for now, this is more experimental.
+If you need to send a complain, send a mail to complains@trogmultiplayer.it
